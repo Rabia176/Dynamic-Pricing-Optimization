@@ -1,4 +1,5 @@
-# Dynamic-Pricing-Optimization
+# Dynamic Pricing Optimization (Synthetic Dataset Demo)
+
 This project demonstrates a dynamic pricing optimization pipeline:
 - synthetic dataset of 1000 transactions (`data/pricing_synthetic_1000.csv`)
 - train a demand model (XGBoost/RandomForest) to predict demand given price & features
